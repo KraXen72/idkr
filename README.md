@@ -10,7 +10,7 @@ This client aims for:
 
 this forks extra features:
 - electron version 9.4.4
-- yeeted menutimer
+- ~~yeeted menutimer~~ already fixed by mixaz
   
 should be up to date with mixaz's master
 
