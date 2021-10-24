@@ -1,5 +1,5 @@
 # idkr
-[![Total downloads](https://img.shields.io/github/downloads/mixaz017/idkr/total)](https://github.com/Mixaz017/idkr/releases)
+[![Total downloads](https://img.shields.io/github/downloads/idkr-client/idkr/total)](https://github.com/idkr-client/idkr/releases)
 [![Discord server](https://discord.com/api/guilds/697366856914173994/widget.png)](https://discord.gg/wEZbFFX)
 
 idk, just a Krunker client 
@@ -7,7 +7,7 @@ idk, just a Krunker client
 This client aims for:
 - Stable behavior and performance
 - Advanced customizability (settings and userscripts)
-- Constructive to the community (open source and MIT license)
+- Constructive to the community (open source; under [AGPL-3.0](https://github.com/idkr-client/idkr/blob/master/LICENSE))
 
 this forks extra features:
 - electron version 9.4.4
@@ -27,12 +27,12 @@ should be up to date with mixaz's master
 https://discord.gg/wEZbFFX
 
 ### Wiki
-https://github.com/Mixaz017/idkr/wiki
+https://github.com/idkr-client/idkr/wiki
 
 ### Download
-[Latest release / changelog](https://github.com/Mixaz017/idkr/releases/latest)
-- [Windows installer](https://github.com/Mixaz017/idkr/releases/latest/download/idkr-setup-win.exe)
-- [Windows portable](https://github.com/Mixaz017/idkr/releases/latest/download/idkr-portable-win.exe)
-- [macOS portable](https://github.com/Mixaz017/idkr/releases/latest/download/idkr-portable-mac.dmg)
-- [Linux portable (x86_64)](https://github.com/Mixaz017/idkr/releases/latest/download/idkr-portable-linux-x86_64.AppImage)
-- [Linux portable (i836)](https://github.com/Mixaz017/idkr/releases/latest/download/idkr-portable-linux-i386.AppImage)
+[Latest release / changelog](https://github.com/idkr-client/idkr/releases/latest)
+- [Windows installer](https://github.com/idkr-client/idkr/releases/latest/download/idkr-setup-win.exe)
+- [Windows portable](https://github.com/idkr-client/idkr/releases/latest/download/idkr-portable-win.exe)
+- [macOS portable](https://github.com/idkr-client/idkr/releases/latest/download/idkr-portable-mac.dmg)
+- [Linux portable (x86_64)](https://github.com/idkr-client/idkr/releases/latest/download/idkr-portable-linux-x86_64.AppImage)
+- [Linux portable (i836)](https://github.com/idkr-client/idkr/releases/latest/download/idkr-portable-linux-i386.AppImage)
